@@ -11,5 +11,3 @@ A simple decentralized counter application built using **Motoko** for the backen
 ```sh
 dfx start --background
 dfx deploy
-npm install
-npm run dev
